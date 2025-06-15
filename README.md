@@ -1,4 +1,4 @@
-# Risk Management for Tech Index Portfolio  
+# IDS 583 Final Project: Risk Management for Tech Index Portfolio  
 **Volatility-Targeted Delta & Gamma Hedging**
 
 > MATH 583 · Duke University · Final Project (Spring 2025)
